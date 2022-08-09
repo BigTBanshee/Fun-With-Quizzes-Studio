@@ -12,6 +12,7 @@ public abstract class Question {
     }
 
     public abstract boolean checkAnswer(String answer); //{
+//        Answer = answer;
 //        if (answer.toLowerCase().equals(this.getAnswer().toLowerCase())) {
 //            return true;
 //        }   else {

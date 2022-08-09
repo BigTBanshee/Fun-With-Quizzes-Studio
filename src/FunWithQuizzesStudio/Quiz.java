@@ -24,7 +24,7 @@ public class Quiz {
         this.questions.add(question);
     }
 
-    private String getUsersAnswers() {
+    private String getInputAnswers() {
         String inputAnswer = scanner.nextLine();
         return inputAnswer;
     }
@@ -32,7 +32,7 @@ public class Quiz {
     public void runQuiz() {
         for (Question question : questions) {
             System.out.println(question.getQuestion());
-            boolean questionCorrect = question.checkAnswer(getUsersAnswers());
+            boolean questionCorrect = question.checkAnswer(getInputAnswers());
             if (questionCorrect) {
                 this.Score++;
             }

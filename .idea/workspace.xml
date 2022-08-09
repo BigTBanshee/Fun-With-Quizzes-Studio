@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e80568bc-2ff7-4f1f-8cee-21ee089d3fb4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fun-With-Quizzes-Studio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunWithQuizzesStudio/Checkbox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunWithQuizzesStudio/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunWithQuizzesStudio/MultipleChoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunWithQuizzesStudio/Question.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunWithQuizzesStudio/Quiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunWithQuizzesStudio/QuizRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunWithQuizzesStudio/TrueOrFalse.java" afterDir="false" />
+    <list default="true" id="e80568bc-2ff7-4f1f-8cee-21ee089d3fb4" name="Changes" comment="Studio finished">
+      <change afterPath="$PROJECT_DIR$/src/FunWithQuizzesStudio/LinearScale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FunWithQuizzesStudio/Paragraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FunWithQuizzesStudio/ShortAnswer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FunWithQuizzesStudio/Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FunWithQuizzesStudio/Question.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FunWithQuizzesStudio/Quiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FunWithQuizzesStudio/Quiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FunWithQuizzesStudio/QuizRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FunWithQuizzesStudio/QuizRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +70,14 @@
       <option name="presentableId" value="Default" />
       <updated>1659985139384</updated>
     </task>
+    <task id="LOCAL-00001" summary="Studio finished">
+      <created>1660000062549</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660000062549</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,5 +90,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Studio finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Studio finished" />
   </component>
 </project>
